@@ -1,16 +1,67 @@
+@import url("http://fonts.googleapis.com/css?family=Lato&subset=latin,latin-ext");
+
 html,
 body {
+  background-color: #585c68;
   padding: 0;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  font-family: "Lato", sans-serif;
 }
 
 a {
-  color: inherit;
+  color: #353839;
   text-decoration: none;
 }
 
 * {
   box-sizing: border-box;
+}
+
+th {
+  font-size: 20px;
+  font-weight: normal;
+  padding: 3px;
+  padding-right: 20px;
+  font-family: "Lato", sans-serif;
+  text-align: left;
+}
+
+td {
+  color: #353839;
+  font-size: 20px;
+  padding: 3px;
+  padding-left: 20px;
+  font-family: "Lato", sans-serif;
+}
+
+body {
+  background-color: #585c68;
+}
+
+p {
+  font-family: "Lato", sans-serif;
+  font-size: large;
+  color: #353839;
+}
+
+h1 {
+  font-family: "Lato", sans-serif;
+  color: tomato;
+}
+
+h5 {
+  font-family: "Lato", sans-serif;
+  color: #353839;
+}
+
+a {
+  font-family: "Lato", sans-serif;
+  text-decoration: none;
+  color: #353839;
+  transition: 0.2s;
+}
+
+hr {
+  color: #353839;
+  border-width: 2px;
 }
