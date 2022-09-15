@@ -19,4 +19,4 @@ Deploy ไฟล์ที่ build โดยใช้บริการ Static w
 
 ดูวิธีการใช้ **Surge** ใน MS TEAM Channel General
 
-chubby-trail-worstCV.surge.sh
+https://chubby-trail-worstCV.surge.sh
